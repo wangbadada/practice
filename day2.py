@@ -1,4 +1,4 @@
-# ´´½¨º¯Êı£º def[º¯ÊıÃû] £¨[²ÎÊı]£©£º[º¯Êı´úÂë¿é]
+# åˆ›å»ºå‡½æ•°ï¼š def[å‡½æ•°å] ï¼ˆ[å‚æ•°]ï¼‰ï¼š[å‡½æ•°ä»£ç å—]
 '''
 def print_lol(the_list,level):
      for each_item in the_list:
@@ -15,7 +15,7 @@ movies=["The Holy Grail",1975,"Terry Jones&Terry Gilliam",91,
 print_lol(movies,0)
 '''
 
-#open()´ò¿ªÊı¾İ×÷Îªµ¥¸öÎÄ±¾ĞĞ
+#open()æ‰“å¼€æ•°æ®ä½œä¸ºå•ä¸ªæ–‡æœ¬è¡Œ
 '''
 data=open('sketch1.txt')
 for each_line in data:
@@ -25,7 +25,7 @@ for each_line in data:
     print(line_spoken,end='')
 data.close()
 '''
-#Òì³£´¦Àí
+#å¼‚å¸¸å¤„ç†
 '''
 try:
     data=open('missing.txt')
